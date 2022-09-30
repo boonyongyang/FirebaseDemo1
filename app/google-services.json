@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10467577413",
+    "project_id": "mad-w10p",
+    "storage_bucket": "mad-w10p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10467577413:android:226e2613b7d4187c7b5d2c",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10467577413-gtgh1vqb91ruf4l9nfvdteoq7cei9c12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmuIDeWhnkL4v2Fi7his4ch6YVYC6Myw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10467577413-gtgh1vqb91ruf4l9nfvdteoq7cei9c12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
